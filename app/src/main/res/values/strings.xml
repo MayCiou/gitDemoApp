@@ -3,4 +3,13 @@
     <string name="email">Email</string>
     <string name="password">Password</string>
     <string name="sign_in">Sign In</string>
+    <string name="ok">OK</string>
+    <string name="message_title">Message</string>
+
+    <string name="email_too_short_msg">Email is too short.</string>
+    <string name="email_contains_illegal_msg">Email contains illegal characters.</string>
+    <string name="email_too_long_msg">Email must be less than %1$d characters.</string>
+    <string name="password_range_msg">Password must be %1$d-%2$d characters.</string>
+    <string name="check_email_and_password_error_msg">Please recheck your Email and Password and try again.</string>
+    <string name="success_mag">Success</string>
 </resources>
